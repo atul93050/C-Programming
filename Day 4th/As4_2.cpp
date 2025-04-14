@@ -1,0 +1,1 @@
+//wap in c to insert and delete a element from an array specific position
